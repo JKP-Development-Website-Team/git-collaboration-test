@@ -5,3 +5,4 @@ console.log('halo mars')
 console.log('halo pluto')
 
 confirm('oke')
+console.log('oke2')
