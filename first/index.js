@@ -1,2 +1,2 @@
 const firstCommit = "This is an initial commit";
-const firstMerge = "this is for merging";
+const thirdMerge = "this is for merging";
